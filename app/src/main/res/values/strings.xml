@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnamaeApp</string>
+    <string name="btnName">スタート</string>
+    <string name="textViewVal">xxさん</string>
+    <string name="konnitiha">こんにちは</string>
+    <string name="back">戻る</string>
+    <string name="san">さん</string>
+</resources>
